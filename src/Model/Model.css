@@ -1,0 +1,15 @@
+.model-sain{
+    justify-content: space-around;
+}
+.model-api{
+    justify-content: space-between;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+.sam{
+    padding: 10px 10px ;
+}
+.model-start{
+    margin-left: 30px;
+}

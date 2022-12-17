@@ -1,0 +1,25 @@
+.word-separate{
+    display: flex;
+    justify-content: space-around;
+}
+.word-keys{
+    margin-left: 30px;
+}
+.word-keys-sm{
+    width: 600px;
+    background-color: #CDE0FE ;
+    padding-left: 20px;
+    
+}
+.word-stati{
+    padding: 30px 30px 30px 30px;
+}
+.word-static{
+    padding: 10px;
+}
+.word-into{
+    margin-left: 20px;
+}
+.word-sum{
+    padding: 30px;
+}

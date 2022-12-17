@@ -1,0 +1,90 @@
+*{
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+    margin: 0;
+    
+}
+body{
+    background: #CDE0FE;
+    position: relative;
+}
+.image-logo{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.Navbar_header-hd{
+    margin-top: 0;
+    float: right;
+    
+}
+.Navbar_header-hd>ul{
+    display: flex;
+    
+    right: auto;
+    margin-top: 0%;
+    top: auto;
+    list-style-type: none;
+    color: black;
+   
+}
+.Navbar_header-hd>ul>li>a{
+    padding: 20px;
+    top: auto;
+    color: black;
+    
+    
+}
+.Navbar_header-pg{
+    text-align: center;
+    margin-top: 200px;
+}
+.Navbar-btn{
+    margin-left: 550px;
+    margin-top: 50px;
+    height: 50px;
+    width: 120px;
+    background-color: rgb(64, 101, 193);
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 400;
+}
+.Navbar-btn::before{
+    margin-left: 550px;
+    margin-top: 50px;
+    height: 50px;
+    width: 120px;
+    background-color: rgb(64, 101, 193);
+    border-radius: 5px;
+}
+.Navbar-btn:hover{
+    background-color: blue;
+    transition: all ease 3 sec;
+}
+.Navbar_header-ft{
+    margin-left:400px ;
+    margin-top: 40px;
+    margin-bottom: 12px;
+}
+.card{
+    background-color: beige;
+    box-shadow:  10px 5px 5px rgb(15, 14, 14);
+    width: 400px;
+    margin-left: 890px;
+   position: absolute;
+   margin-top: 45px;
+}
+.menu-frame{
+    cursor: pointer;
+    list-style-type: none;
+    
+}
+.menu-frame:hover{
+    background-color: aquamarine;
+}
+.btn-cd{
+    outline-style: none;
+    border: none;
+    background-color: #CDE0FE;
+    cursor: pointer;
+    font-weight: 500;
+}

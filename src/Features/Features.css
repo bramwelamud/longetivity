@@ -1,0 +1,28 @@
+*{
+box-sizing: border-box;
+}
+.features-int{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 250px;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+.features-card{
+    background:#CDE0FE ;
+    border-radius: 10px;
+    box-shadow: 2px 2px black;
+    padding-left:20px ;
+    padding-right: 20px;
+    cursor: pointer;
+}
+.btn-iza{
+    height: 40px;
+    width: 100px;
+    margin-top: 4px;
+    cursor: pointer;
+    color: white;
+    background-color:rgb(42, 42, 97) ;
+    margin-left: 20px;
+}
